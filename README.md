@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://c.tenor.com/5BYcjsmnTMoAAAAM/azur-lane-sleeping.gif](https://c.tenor.com/_cA2gEkOcgUAAAAM/chika-funny-dance-dimas-auchreill-aslami.gif" style="border-radius: 30px; padding-bottom: 0px" width="400" height="600" >
+<img src="https://c.tenor.com/KSj4-9vZmrAAAAAM/anime-girl.gif" style="border-radius: 30px; padding-bottom: 0px" width="400" height="600" >
 </p>
 <h1 align="center" style="padding-top:0px; margin-top: 0px; ">purpled3v's GitHub Page</h1>
 
