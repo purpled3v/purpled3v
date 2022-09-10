@@ -5,4 +5,4 @@
 
 <br>
 
-<h3 align="center" style="padding-top:0px; margin-top: 0px; ">JS, Node, HTML & CSS, Python</h3>
+<h3 align="center" style="padding-top:0px; margin-top: 0px; ">JS, Node, HTML & CSS, Python, Lua</h3>
