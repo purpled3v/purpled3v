@@ -12,8 +12,9 @@ ___
 Here is some info about me:
 
 Discord ID: 'purpledev #0104
-Instagram: valentinoleonn
-Paypal: https://paypal.me/prpd3v
+
+Instagram : valentinoleonn
+
 
 You can find me by writing me in the dm of instagram.
 My programming languages
