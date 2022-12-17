@@ -1,24 +1,16 @@
 
 ![!link](https://media.tenor.com/CTVW1p-p1IsAAAAC/homer-simpson-bush.gif)
-___
 
 ## Purpled3v's github page
 
 Hi, I'm Leon!
 Known as Purple Developer, I am an aspiring programmer.
 I started on discord in 2020 programming discord bots and now I'm learning how to code websites.
-___
 
 Here is some info about me:
 
-Discord ID: 'purpledev #0104
+Discord ID: NotPurple#0104
 
-Instagram : valentinoleonn
-
-
-You can find me by writing me in the dm of instagram.
-
-___
 
 My programming languages
 
@@ -27,7 +19,5 @@ My programming languages
 ![css](https://img.shields.io/badge/Css-1DA1F2?style=plastic&logo=appveyor&logoColor=white&color=blue)
 ![python](https://img.shields.io/badge/Python-1DA1F2?style=plastic&logo=appveyor&logoColor=white&color=brightgreen)
 
-___
-
-##  Skills
+Skills
 Java, C, C#, C++
