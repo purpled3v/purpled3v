@@ -6,12 +6,14 @@
 Hi, I'm Leon!
 Known as Purple Developer, I am an aspiring programmer.
 I started on discord in 2020 programming discord bots and now I'm learning how to code websites.
-\n
+
+
 Discord ID: NotPurple#0104
 
 
-My programming languages:\n
+My programming languages:
+
 JavaScript, Python, NodeJs, Html & Css
 
-Skills:\n
+Skills:
 Java, C, C#, C++
